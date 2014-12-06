@@ -1,3 +1,4 @@
-#HTML 5 Reset x Wordpress x Yaml.de
+#AkendewaWP
 
-A wordpress starter theme based on HTML 5 and  Yet Another Multicolumn Layout
+A responsive wordpress theme for akenedewa.org .
+Layout designed and coded by Jean Luc Houedanou .
