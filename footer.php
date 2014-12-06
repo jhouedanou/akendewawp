@@ -97,7 +97,6 @@
 <!-- EXTENDED GRID SCRIPT -->
 <script src="<?php echo get_template_directory_uri(); ?>/js/grid.js"></script>
 		<script>
-			 $(".infos h1").fitText({ minFontSize: '15px', maxFontSize: '35px' });
 			jQuery(function() {
 				Grid.init();
 				});
